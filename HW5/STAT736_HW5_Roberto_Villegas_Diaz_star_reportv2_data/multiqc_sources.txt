@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+STAR	SummaryLog	SRR2121781	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW5/STAR/SRR2121781Log.final.out
+STAR	SummaryLog	SRR2121789	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW5/STAR/SRR2121789Log.final.out
+STAR	SummaryLog	SRR2121780	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW5/STAR/SRR2121780Log.final.out
+STAR	SummaryLog	SRR2121778	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW5/STAR/SRR2121778Log.final.out
+STAR	SummaryLog	SRR2121788	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW5/STAR/SRR2121788Log.final.out
+STAR	SummaryLog	SRR2121779	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW5/STAR/SRR2121779Log.final.out
+STAR	SummaryLog	SRR2121787	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW5/STAR/SRR2121787Log.final.out
+STAR	SummaryLog	SRR2121775	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW5/STAR/SRR2121775Log.final.out
+STAR	SummaryLog	SRR2121786	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW5/STAR/SRR2121786Log.final.out
+STAR	SummaryLog	SRR2121771	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW5/STAR/SRR2121771Log.final.out
+STAR	SummaryLog	SRR2121770	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW5/STAR/SRR2121770Log.final.out
+STAR	SummaryLog	SRR2121774	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW5/STAR/SRR2121774Log.final.out
