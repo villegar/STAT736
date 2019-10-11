@@ -1,0 +1,469 @@
+{
+    "report_data_sources": {
+        "Bowtie 2": {
+            "all_sections": {
+                "6.phix_10-11910115-big-mem003": "/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_10-11910115-big-mem003.log",
+                "6.phix_5-11910115-big-mem002": "/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_5-11910115-big-mem002.log",
+                "6.phix_1-11910115-big-mem001": "/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_1-11910115-big-mem001.log",
+                "6.phix_11-11910115-big-mem003": "/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_11-11910115-big-mem003.log",
+                "6.phix_12-11910115-big-mem003": "/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_12-11910115-big-mem003.log",
+                "6.phix_3-11910115-big-mem001": "/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_3-11910115-big-mem001.log",
+                "6.phix_4-11910115-big-mem001": "/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_4-11910115-big-mem001.log",
+                "6.phix_7-11910115-big-mem002": "/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_7-11910115-big-mem002.log",
+                "6.phix_6-11910115-big-mem002": "/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_6-11910115-big-mem002.log",
+                "6.phix_2-11910115-big-mem001": "/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_2-11910115-big-mem001.log",
+                "6.phix_9-11910115-big-mem003": "/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_9-11910115-big-mem003.log",
+                "6.phix_8-11910115-big-mem002": "/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_8-11910115-big-mem002.log"
+            }
+        }
+    },
+    "report_general_stats_data": [
+        {
+            "6.phix_10-11910115-big-mem003": {
+                "total_reads": 54427039,
+                "paired_total": 54427039,
+                "paired_aligned_none": 54344793,
+                "paired_aligned_one": 82246,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 4218,
+                "paired_aligned_mate_none": 108679189,
+                "paired_aligned_mate_one": 1961,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.16,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 54339594.5,
+                "paired_aligned_mate_one_halved": 980.5
+            },
+            "6.phix_5-11910115-big-mem002": {
+                "total_reads": 108337271,
+                "paired_total": 108337271,
+                "paired_aligned_none": 108212089,
+                "paired_aligned_one": 125182,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 6325,
+                "paired_aligned_mate_none": 216408835,
+                "paired_aligned_mate_one": 2693,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.12,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 108204417.5,
+                "paired_aligned_mate_one_halved": 1346.5
+            },
+            "6.phix_1-11910115-big-mem001": {
+                "total_reads": 102779602,
+                "paired_total": 102779602,
+                "paired_aligned_none": 102674701,
+                "paired_aligned_one": 104901,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 5081,
+                "paired_aligned_mate_none": 205336479,
+                "paired_aligned_mate_one": 2761,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.11,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 102668239.5,
+                "paired_aligned_mate_one_halved": 1380.5
+            },
+            "6.phix_11-11910115-big-mem003": {
+                "total_reads": 73771492,
+                "paired_total": 73771492,
+                "paired_aligned_none": 73629819,
+                "paired_aligned_one": 141673,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 7405,
+                "paired_aligned_mate_none": 147241915,
+                "paired_aligned_mate_one": 2913,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.2,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 73620957.5,
+                "paired_aligned_mate_one_halved": 1456.5
+            },
+            "6.phix_12-11910115-big-mem003": {
+                "total_reads": 82764590,
+                "paired_total": 82764590,
+                "paired_aligned_none": 82605166,
+                "paired_aligned_one": 159424,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 8139,
+                "paired_aligned_mate_none": 165190469,
+                "paired_aligned_mate_one": 3585,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.2,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 82595234.5,
+                "paired_aligned_mate_one_halved": 1792.5
+            },
+            "6.phix_3-11910115-big-mem001": {
+                "total_reads": 77240029,
+                "paired_total": 77240029,
+                "paired_aligned_none": 77108986,
+                "paired_aligned_one": 131043,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 6603,
+                "paired_aligned_mate_none": 154201941,
+                "paired_aligned_mate_one": 2825,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.18,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 77100970.5,
+                "paired_aligned_mate_one_halved": 1412.5
+            },
+            "6.phix_4-11910115-big-mem001": {
+                "total_reads": 94179097,
+                "paired_total": 94179097,
+                "paired_aligned_none": 93998943,
+                "paired_aligned_one": 180154,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 9196,
+                "paired_aligned_mate_none": 187975520,
+                "paired_aligned_mate_one": 3974,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.2,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 93987760.0,
+                "paired_aligned_mate_one_halved": 1987.0
+            },
+            "6.phix_7-11910115-big-mem002": {
+                "total_reads": 76172416,
+                "paired_total": 76172416,
+                "paired_aligned_none": 76103405,
+                "paired_aligned_one": 69011,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 3475,
+                "paired_aligned_mate_none": 152198345,
+                "paired_aligned_mate_one": 1515,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.1,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 76099172.5,
+                "paired_aligned_mate_one_halved": 757.5
+            },
+            "6.phix_6-11910115-big-mem002": {
+                "total_reads": 92924182,
+                "paired_total": 92924182,
+                "paired_aligned_none": 92820803,
+                "paired_aligned_one": 103379,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 5222,
+                "paired_aligned_mate_none": 185628885,
+                "paired_aligned_mate_one": 2277,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.12,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 92814442.5,
+                "paired_aligned_mate_one_halved": 1138.5
+            },
+            "6.phix_2-11910115-big-mem001": {
+                "total_reads": 88509413,
+                "paired_total": 88509413,
+                "paired_aligned_none": 88400163,
+                "paired_aligned_one": 109250,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 5514,
+                "paired_aligned_mate_none": 176786832,
+                "paired_aligned_mate_one": 2466,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.13,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 88393416.0,
+                "paired_aligned_mate_one_halved": 1233.0
+            },
+            "6.phix_9-11910115-big-mem003": {
+                "total_reads": 69906417,
+                "paired_total": 69906417,
+                "paired_aligned_none": 69784944,
+                "paired_aligned_one": 121473,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 6424,
+                "paired_aligned_mate_none": 139554344,
+                "paired_aligned_mate_one": 2696,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.18,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 69777172.0,
+                "paired_aligned_mate_one_halved": 1348.0
+            },
+            "6.phix_8-11910115-big-mem002": {
+                "total_reads": 95488961,
+                "paired_total": 95488961,
+                "paired_aligned_none": 95350795,
+                "paired_aligned_one": 138166,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 7190,
+                "paired_aligned_mate_none": 190684211,
+                "paired_aligned_mate_one": 2999,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.15,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 95342105.5,
+                "paired_aligned_mate_one_halved": 1499.5
+            }
+        }
+    ],
+    "report_general_stats_headers": [
+        {
+            "overall_alignment_rate": {
+                "title": "% Aligned",
+                "description": "overall alignment rate",
+                "max": 100,
+                "min": 0,
+                "suffix": "%",
+                "scale": "YlGn",
+                "namespace": "Bowtie 2",
+                "rid": "mqc-generalstats-bowtie_2-overall_alignment_rate",
+                "format": "{:,.1f}",
+                "colour": "55,126,184",
+                "hidden": null,
+                "ceiling": null,
+                "floor": null,
+                "minRange": null,
+                "shared_key": null,
+                "modify": null,
+                "placement": 1000.0,
+                "dmax": 100.0,
+                "dmin": 0.0
+            }
+        }
+    ],
+    "report_multiqc_command": "/gpfs/shared/apps_local/python/3.7-9.19/envs/multiqc/bin/multiqc -n STAT736_HW4_Roberto_Villegas_Diaz_phix_report --flat .",
+    "report_plot_data": {},
+    "report_saved_raw_data": {
+        "multiqc_bowtie2": {
+            "6.phix_10-11910115-big-mem003": {
+                "total_reads": 54427039,
+                "paired_total": 54427039,
+                "paired_aligned_none": 54344793,
+                "paired_aligned_one": 82246,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 4218,
+                "paired_aligned_mate_none": 108679189,
+                "paired_aligned_mate_one": 1961,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.16,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 54339594.5,
+                "paired_aligned_mate_one_halved": 980.5
+            },
+            "6.phix_5-11910115-big-mem002": {
+                "total_reads": 108337271,
+                "paired_total": 108337271,
+                "paired_aligned_none": 108212089,
+                "paired_aligned_one": 125182,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 6325,
+                "paired_aligned_mate_none": 216408835,
+                "paired_aligned_mate_one": 2693,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.12,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 108204417.5,
+                "paired_aligned_mate_one_halved": 1346.5
+            },
+            "6.phix_1-11910115-big-mem001": {
+                "total_reads": 102779602,
+                "paired_total": 102779602,
+                "paired_aligned_none": 102674701,
+                "paired_aligned_one": 104901,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 5081,
+                "paired_aligned_mate_none": 205336479,
+                "paired_aligned_mate_one": 2761,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.11,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 102668239.5,
+                "paired_aligned_mate_one_halved": 1380.5
+            },
+            "6.phix_11-11910115-big-mem003": {
+                "total_reads": 73771492,
+                "paired_total": 73771492,
+                "paired_aligned_none": 73629819,
+                "paired_aligned_one": 141673,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 7405,
+                "paired_aligned_mate_none": 147241915,
+                "paired_aligned_mate_one": 2913,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.2,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 73620957.5,
+                "paired_aligned_mate_one_halved": 1456.5
+            },
+            "6.phix_12-11910115-big-mem003": {
+                "total_reads": 82764590,
+                "paired_total": 82764590,
+                "paired_aligned_none": 82605166,
+                "paired_aligned_one": 159424,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 8139,
+                "paired_aligned_mate_none": 165190469,
+                "paired_aligned_mate_one": 3585,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.2,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 82595234.5,
+                "paired_aligned_mate_one_halved": 1792.5
+            },
+            "6.phix_3-11910115-big-mem001": {
+                "total_reads": 77240029,
+                "paired_total": 77240029,
+                "paired_aligned_none": 77108986,
+                "paired_aligned_one": 131043,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 6603,
+                "paired_aligned_mate_none": 154201941,
+                "paired_aligned_mate_one": 2825,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.18,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 77100970.5,
+                "paired_aligned_mate_one_halved": 1412.5
+            },
+            "6.phix_4-11910115-big-mem001": {
+                "total_reads": 94179097,
+                "paired_total": 94179097,
+                "paired_aligned_none": 93998943,
+                "paired_aligned_one": 180154,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 9196,
+                "paired_aligned_mate_none": 187975520,
+                "paired_aligned_mate_one": 3974,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.2,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 93987760.0,
+                "paired_aligned_mate_one_halved": 1987.0
+            },
+            "6.phix_7-11910115-big-mem002": {
+                "total_reads": 76172416,
+                "paired_total": 76172416,
+                "paired_aligned_none": 76103405,
+                "paired_aligned_one": 69011,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 3475,
+                "paired_aligned_mate_none": 152198345,
+                "paired_aligned_mate_one": 1515,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.1,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 76099172.5,
+                "paired_aligned_mate_one_halved": 757.5
+            },
+            "6.phix_6-11910115-big-mem002": {
+                "total_reads": 92924182,
+                "paired_total": 92924182,
+                "paired_aligned_none": 92820803,
+                "paired_aligned_one": 103379,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 5222,
+                "paired_aligned_mate_none": 185628885,
+                "paired_aligned_mate_one": 2277,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.12,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 92814442.5,
+                "paired_aligned_mate_one_halved": 1138.5
+            },
+            "6.phix_2-11910115-big-mem001": {
+                "total_reads": 88509413,
+                "paired_total": 88509413,
+                "paired_aligned_none": 88400163,
+                "paired_aligned_one": 109250,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 5514,
+                "paired_aligned_mate_none": 176786832,
+                "paired_aligned_mate_one": 2466,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.13,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 88393416.0,
+                "paired_aligned_mate_one_halved": 1233.0
+            },
+            "6.phix_9-11910115-big-mem003": {
+                "total_reads": 69906417,
+                "paired_total": 69906417,
+                "paired_aligned_none": 69784944,
+                "paired_aligned_one": 121473,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 6424,
+                "paired_aligned_mate_none": 139554344,
+                "paired_aligned_mate_one": 2696,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.18,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 69777172.0,
+                "paired_aligned_mate_one_halved": 1348.0
+            },
+            "6.phix_8-11910115-big-mem002": {
+                "total_reads": 95488961,
+                "paired_total": 95488961,
+                "paired_aligned_none": 95350795,
+                "paired_aligned_one": 138166,
+                "paired_aligned_multi": 0,
+                "paired_aligned_discord_one": 7190,
+                "paired_aligned_mate_none": 190684211,
+                "paired_aligned_mate_one": 2999,
+                "paired_aligned_mate_multi": 0,
+                "overall_alignment_rate": 0.15,
+                "paired_aligned_mate_multi_halved": 0.0,
+                "paired_aligned_mate_none_halved": 95342105.5,
+                "paired_aligned_mate_one_halved": 1499.5
+            }
+        },
+        "multiqc_general_stats": {
+            "6.phix_10-11910115-big-mem003": {
+                "Bowtie 2_mqc-generalstats-bowtie_2-overall_alignment_rate": 0.16
+            },
+            "6.phix_5-11910115-big-mem002": {
+                "Bowtie 2_mqc-generalstats-bowtie_2-overall_alignment_rate": 0.12
+            },
+            "6.phix_1-11910115-big-mem001": {
+                "Bowtie 2_mqc-generalstats-bowtie_2-overall_alignment_rate": 0.11
+            },
+            "6.phix_11-11910115-big-mem003": {
+                "Bowtie 2_mqc-generalstats-bowtie_2-overall_alignment_rate": 0.2
+            },
+            "6.phix_12-11910115-big-mem003": {
+                "Bowtie 2_mqc-generalstats-bowtie_2-overall_alignment_rate": 0.2
+            },
+            "6.phix_3-11910115-big-mem001": {
+                "Bowtie 2_mqc-generalstats-bowtie_2-overall_alignment_rate": 0.18
+            },
+            "6.phix_4-11910115-big-mem001": {
+                "Bowtie 2_mqc-generalstats-bowtie_2-overall_alignment_rate": 0.2
+            },
+            "6.phix_7-11910115-big-mem002": {
+                "Bowtie 2_mqc-generalstats-bowtie_2-overall_alignment_rate": 0.1
+            },
+            "6.phix_6-11910115-big-mem002": {
+                "Bowtie 2_mqc-generalstats-bowtie_2-overall_alignment_rate": 0.12
+            },
+            "6.phix_2-11910115-big-mem001": {
+                "Bowtie 2_mqc-generalstats-bowtie_2-overall_alignment_rate": 0.13
+            },
+            "6.phix_9-11910115-big-mem003": {
+                "Bowtie 2_mqc-generalstats-bowtie_2-overall_alignment_rate": 0.18
+            },
+            "6.phix_8-11910115-big-mem002": {
+                "Bowtie 2_mqc-generalstats-bowtie_2-overall_alignment_rate": 0.15
+            }
+        }
+    },
+    "config_analysis_dir_abs": [
+        "/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT"
+    ],
+    "config_analysis_dir": [
+        "."
+    ],
+    "config_creation_date": "2019-10-10, 21:27",
+    "config_git_hash": null,
+    "config_intro_text": null,
+    "config_report_comment": null,
+    "config_report_header_info": null,
+    "config_script_path": "/gpfs/shared/apps_local/python/3.7-9.19/envs/multiqc/lib/python3.6/site-packages/multiqc/utils",
+    "config_short_version": "1.7",
+    "config_subtitle": null,
+    "config_title": null,
+    "config_version": "1.7"
+}

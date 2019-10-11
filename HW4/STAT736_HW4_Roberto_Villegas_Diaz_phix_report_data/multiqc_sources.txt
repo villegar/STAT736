@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+Bowtie 2	all_sections	6.phix_10-11910115-big-mem003	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_10-11910115-big-mem003.log
+Bowtie 2	all_sections	6.phix_5-11910115-big-mem002	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_5-11910115-big-mem002.log
+Bowtie 2	all_sections	6.phix_1-11910115-big-mem001	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_1-11910115-big-mem001.log
+Bowtie 2	all_sections	6.phix_11-11910115-big-mem003	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_11-11910115-big-mem003.log
+Bowtie 2	all_sections	6.phix_12-11910115-big-mem003	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_12-11910115-big-mem003.log
+Bowtie 2	all_sections	6.phix_3-11910115-big-mem001	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_3-11910115-big-mem001.log
+Bowtie 2	all_sections	6.phix_4-11910115-big-mem001	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_4-11910115-big-mem001.log
+Bowtie 2	all_sections	6.phix_7-11910115-big-mem002	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_7-11910115-big-mem002.log
+Bowtie 2	all_sections	6.phix_6-11910115-big-mem002	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_6-11910115-big-mem002.log
+Bowtie 2	all_sections	6.phix_2-11910115-big-mem001	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_2-11910115-big-mem001.log
+Bowtie 2	all_sections	6.phix_9-11910115-big-mem003	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_9-11910115-big-mem003.log
+Bowtie 2	all_sections	6.phix_8-11910115-big-mem002	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_8-11910115-big-mem002.log

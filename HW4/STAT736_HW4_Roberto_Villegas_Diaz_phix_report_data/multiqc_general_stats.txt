@@ -1,0 +1,13 @@
+Sample	Bowtie 2_mqc-generalstats-bowtie_2-overall_alignment_rate
+6.phix_1-11910115-big-mem001	0.11
+6.phix_10-11910115-big-mem003	0.16
+6.phix_11-11910115-big-mem003	0.2
+6.phix_12-11910115-big-mem003	0.2
+6.phix_2-11910115-big-mem001	0.13
+6.phix_3-11910115-big-mem001	0.18
+6.phix_4-11910115-big-mem001	0.2
+6.phix_5-11910115-big-mem002	0.12
+6.phix_6-11910115-big-mem002	0.12
+6.phix_7-11910115-big-mem002	0.1
+6.phix_8-11910115-big-mem002	0.15
+6.phix_9-11910115-big-mem003	0.18

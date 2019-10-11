@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+Samtools	flagstat	SRR2121787	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121787.out
+Samtools	flagstat	SRR2121788	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121788.out
+Samtools	flagstat	SRR2121770	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121770.out
+Samtools	flagstat	SRR2121789	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121789.out
+Samtools	flagstat	SRR2121774	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121774.out
+Samtools	flagstat	SRR2121780	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121780.out
+Samtools	flagstat	SRR2121778	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121778.out
+Samtools	flagstat	SRR2121786	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121786.out
+Samtools	flagstat	SRR2121779	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121779.out
+Samtools	flagstat	SRR2121771	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121771.out
+Samtools	flagstat	SRR2121775	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121775.out
+Samtools	flagstat	SRR2121781	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121781.out

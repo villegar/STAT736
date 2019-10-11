@@ -1,0 +1,37 @@
+Module	Section	Sample Name	Source
+Samtools	flagstat	SRR2121787	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121787.out
+Samtools	flagstat	SRR2121788	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121788.out
+Samtools	flagstat	SRR2121770	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121770.out
+Samtools	flagstat	SRR2121789	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121789.out
+Samtools	flagstat	SRR2121774	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121774.out
+Samtools	flagstat	SRR2121780	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121780.out
+Samtools	flagstat	SRR2121778	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121778.out
+Samtools	flagstat	SRR2121786	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121786.out
+Samtools	flagstat	SRR2121779	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121779.out
+Samtools	flagstat	SRR2121771	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121771.out
+Samtools	flagstat	SRR2121775	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121775.out
+Samtools	flagstat	SRR2121781	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/BWA_OUT/SRR2121781.out
+Bowtie 2	all_sections	5.phix_10-11910084-big-mem003	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/old/5.phix_10-11910084-big-mem003.log
+Bowtie 2	all_sections	5.phix_12-11910084-big-mem003	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/old/5.phix_12-11910084-big-mem003.log
+Bowtie 2	all_sections	5.phix_11-11910084-big-mem003	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/old/5.phix_11-11910084-big-mem003.log
+Bowtie 2	all_sections	5.phix_2-11910084-big-mem001	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/old/5.phix_2-11910084-big-mem001.log
+Bowtie 2	all_sections	5.phix_5-11910084-big-mem002	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/old/5.phix_5-11910084-big-mem002.log
+Bowtie 2	all_sections	5.phix_6-11910084-big-mem002	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/old/5.phix_6-11910084-big-mem002.log
+Bowtie 2	all_sections	5.phix_9-11910084-big-mem003	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/old/5.phix_9-11910084-big-mem003.log
+Bowtie 2	all_sections	5.phix_3-11910084-big-mem001	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/old/5.phix_3-11910084-big-mem001.log
+Bowtie 2	all_sections	5.phix_1-11910084-big-mem001	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/old/5.phix_1-11910084-big-mem001.log
+Bowtie 2	all_sections	5.phix_8-11910084-big-mem002	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/old/5.phix_8-11910084-big-mem002.log
+Bowtie 2	all_sections	5.phix_4-11910084-big-mem001	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/old/5.phix_4-11910084-big-mem001.log
+Bowtie 2	all_sections	5.phix_7-11910084-big-mem002	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/old/5.phix_7-11910084-big-mem002.log
+Bowtie 2	all_sections	6.phix_10-11910115-big-mem003	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_10-11910115-big-mem003.log
+Bowtie 2	all_sections	6.phix_5-11910115-big-mem002	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_5-11910115-big-mem002.log
+Bowtie 2	all_sections	6.phix_1-11910115-big-mem001	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_1-11910115-big-mem001.log
+Bowtie 2	all_sections	6.phix_11-11910115-big-mem003	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_11-11910115-big-mem003.log
+Bowtie 2	all_sections	6.phix_12-11910115-big-mem003	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_12-11910115-big-mem003.log
+Bowtie 2	all_sections	6.phix_3-11910115-big-mem001	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_3-11910115-big-mem001.log
+Bowtie 2	all_sections	6.phix_4-11910115-big-mem001	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_4-11910115-big-mem001.log
+Bowtie 2	all_sections	6.phix_7-11910115-big-mem002	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_7-11910115-big-mem002.log
+Bowtie 2	all_sections	6.phix_6-11910115-big-mem002	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_6-11910115-big-mem002.log
+Bowtie 2	all_sections	6.phix_2-11910115-big-mem001	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_2-11910115-big-mem001.log
+Bowtie 2	all_sections	6.phix_9-11910115-big-mem003	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_9-11910115-big-mem003.log
+Bowtie 2	all_sections	6.phix_8-11910115-big-mem002	/gpfs/scratch/roberto.villegasdiaz/STAT736/homeworks/HW4/PHIX_OUT/6.phix_8-11910115-big-mem002.log
