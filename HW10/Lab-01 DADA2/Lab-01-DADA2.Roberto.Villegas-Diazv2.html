@@ -523,21 +523,21 @@ sample.names</code></pre>
 <pre class="r"><code>plotQualityProfile(fnFs[[1]])</code></pre>
 <pre><code>## Scale for &#39;y&#39; is already present. Adding another scale for &#39;y&#39;, which will
 ## replace the existing scale.</code></pre>
-<p><img src="https://github.com/villegar/STAT736/blob/master/HW10/Lab-01 DADA2/Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/see-quality-F-1.png" width="672" /></p>
+<p><img src="https://raw.githubusercontent.com/villegar/STAT736/blob/master/HW10/Lab-01 DADA2/Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/see-quality-F-1.png" width="672" /></p>
 <pre class="r"><code>plotQualityProfile(fnFs[[2]])</code></pre>
 <pre><code>## Scale for &#39;y&#39; is already present. Adding another scale for &#39;y&#39;, which will
 ## replace the existing scale.</code></pre>
-<p><img src="https://github.com/villegar/STAT736/blob/master/HW10/Lab-01 DADA2/Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/see-quality-F-2.png" width="672" /></p>
+<p><img src="https://raw.githubusercontent.com/villegar/STAT736/blob/master/HW10/Lab-01 DADA2/Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/see-quality-F-2.png" width="672" /></p>
 <p>The forward reads are of good quality. It is generally a good idea to trim the first 10 bases of Illumina sequences, as error rates are higher and less well-controlled at the start of Illumina sequencing. It is also advisable to trim the very end, for similar reasons. There is no suggestion from the quality profiles that any additional trimming is needed, so for the forward reads we will trim the first 10 nucleotides and truncate at position 240 (trimming the last 10 nucleotides).</p>
 <p><strong>Visualize the quality profile of the reverse reads</strong>:</p>
 <pre class="r"><code>plotQualityProfile(fnRs[[1]])</code></pre>
 <pre><code>## Scale for &#39;y&#39; is already present. Adding another scale for &#39;y&#39;, which will
 ## replace the existing scale.</code></pre>
-<p><img src="https://github.com/villegar/STAT736/blob/master/HW10/Lab-01 DADA2/Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/see-quality-R-1.png" width="672" /></p>
+<p><img src="https://raw.githubusercontent.com/villegar/STAT736/blob/master/HW10/Lab-01 DADA2/Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/see-quality-R-1.png" width="672" /></p>
 <pre class="r"><code>plotQualityProfile(fnRs[[2]])</code></pre>
 <pre><code>## Scale for &#39;y&#39; is already present. Adding another scale for &#39;y&#39;, which will
 ## replace the existing scale.</code></pre>
-<p><img src="https://github.com/villegar/STAT736/blob/master/HW10/Lab-01 DADA2/Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/see-quality-R-2.png" width="672" /></p>
+<p><img src="https://raw.githubusercontent.com/villegar/STAT736/blob/master/HW10/Lab-01 DADA2/Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/see-quality-R-2.png" width="672" /></p>
 <p>The reverse reads have significantly worse quality, especially towards the end of the reads, which is quite common in Illumina paired-end sequencing. This isn’t too worrisome, DADA2 incorporates quality information into its error model so the algorithm is fairly robust to lower quality sequence, but some trimming as the average qualities crash is still a good idea. Here we will trim the first 10 nucleotides (as standard) and truncate at position 160 where the quality distribution crashes.</p>
 </div>
 <div id="perform-filtering-and-trimming" class="section level2">
@@ -721,7 +721,7 @@ names(derepRs) &lt;- sample.names</code></pre>
 <pre><code>## Warning: Transformation introduced infinite values in continuous y-axis
 
 ## Warning: Transformation introduced infinite values in continuous y-axis</code></pre>
-<p><img src="https://github.com/villegar/STAT736/blob/master/HW10/Lab-01 DADA2/Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/plot-errors-1.png" width="672" /></p>
+<p><img src="https://raw.githubusercontent.com/villegar/STAT736/blob/master/HW10/Lab-01 DADA2/Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/plot-errors-1.png" width="672" /></p>
 <p>The error rates for each possible transition (eg. A-&gt;C, A-&gt;G, …) are shown. The points are the observed error rates for each consensus quality score. The black line is the estimated error rates after convergence. The red line is the error rates expected under the nominal definition of the Q-value.</p>
 <p>The black line (the estimated rates) seem to be fitting the observed rates well, and the error rates drop with increased quality as expected. Everything looks reasonable and we proceed with confidence.</p>
 <p> </p>
@@ -866,7 +866,7 @@ ps</code></pre>
               x=&quot;Day&quot;,
               measures=c(&quot;Shannon&quot;, &quot;Simpson&quot;),
               color=&quot;When&quot;)</code></pre>
-<p><img src="https://github.com/villegar/STAT736/blob/master/HW10/Lab-01 DADA2/Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/richness-1.png" width="672" /></p>
+<p><img src="https://raw.githubusercontent.com/villegar/STAT736/blob/master/HW10/Lab-01 DADA2/Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/richness-1.png" width="672" /></p>
 <p>No obvious systematic difference in alpha-diversity between early and late samples.</p>
 <p><strong>Ordinate</strong>:</p>
 <pre class="r"><code>ord.nmds.bray &lt;- ordinate(ps,
@@ -913,14 +913,14 @@ ps</code></pre>
                 color=&quot;When&quot;,
                 title=&quot;Bray NMDS&quot;) +
   geom_point(size = 6)</code></pre>
-<p><img src="https://github.com/villegar/STAT736/blob/master/HW10/Lab-01 DADA2/Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/ordinate-1.png" width="672" /></p>
+<p><img src="https://raw.githubusercontent.com/villegar/STAT736/blob/master/HW10/Lab-01 DADA2/Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/ordinate-1.png" width="672" /></p>
 <p>Ordination picks out a clear separation between the early and late samples.</p>
 <p><strong>Bar plot</strong>:</p>
 <pre class="r"><code>top20 &lt;- names(sort(taxa_sums(ps), decreasing=TRUE))[1:20]
 ps.top20 &lt;- transform_sample_counts(ps, function(OTU) OTU/sum(OTU))
 ps.top20 &lt;- prune_taxa(top20, ps.top20)
 plot_bar(ps.top20, x=&quot;Day&quot;, fill=&quot;Family&quot;) + facet_wrap(~When, scales=&quot;free_x&quot;)</code></pre>
-<p><img src="https://github.com/villegar/STAT736/blob/master/HW10/Lab-01 DADA2/Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/bar-plot-1.png" width="672" /></p>
+<p><img src="https://raw.githubusercontent.com/villegar/STAT736/blob/master/HW10/Lab-01 DADA2/Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/bar-plot-1.png" width="672" /></p>
 <p>Nothing glaringly obvious jumps out from the taxonomic distribution of the top 20 sequences to explain the early-late differentiation.</p>
 <p>This was just a bare bones demonstration of how the data from DADA2 can be easily imported into phyloseq and interrogated. For further examples on the many analyses possible with phyloseq, see <a href="https://joey711.github.io/phyloseq/">the phyloseq web site</a>.</p>
 </div>
