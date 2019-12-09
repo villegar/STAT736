@@ -533,11 +533,11 @@ sample.names</code></pre>
 <pre class="r"><code>plotQualityProfile(fnRs[[1]])</code></pre>
 <pre><code>## Scale for &#39;y&#39; is already present. Adding another scale for &#39;y&#39;, which will
 ## replace the existing scale.</code></pre>
-<p><img src="https://raw.githubusercontent.com/villegar/STAT736/master/HW10/Lab-01\%20DADA2/Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/see-quality-R-1.png" width="672" /></p>
+<p><img src="Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/see-quality-R-1.png" width="672" /></p>
 <pre class="r"><code>plotQualityProfile(fnRs[[2]])</code></pre>
 <pre><code>## Scale for &#39;y&#39; is already present. Adding another scale for &#39;y&#39;, which will
 ## replace the existing scale.</code></pre>
-<p><img src="https://raw.githubusercontent.com/villegar/STAT736/master/HW10/Lab-01\%20DADA2/Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/see-quality-R-2.png" width="672" /></p>
+<p><img src="Lab-01-DADA2.Roberto.Villegas-Diaz_files/figure-html/see-quality-R-2.png" width="672" /></p>
 <p>The reverse reads have significantly worse quality, especially towards the end of the reads, which is quite common in Illumina paired-end sequencing. This isn’t too worrisome, DADA2 incorporates quality information into its error model so the algorithm is fairly robust to lower quality sequence, but some trimming as the average qualities crash is still a good idea. Here we will trim the first 10 nucleotides (as standard) and truncate at position 160 where the quality distribution crashes.</p>
 </div>
 <div id="perform-filtering-and-trimming" class="section level2">
